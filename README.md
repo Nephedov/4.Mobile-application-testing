@@ -33,6 +33,10 @@
 * Изучены лог-файлы и определены наиболее вероятные причины возникновения исключений. Выводы отражены в
   <a href="https://docs.google.com/document/d/1QqrIH-6KeD1HFTCfBKqTIVOreaPHg-xl5be8pMdlSxw/edit?usp=sharing">Crash Logs Conclusion</a>.
 
+
+---
+---
+
   
 ## Описание Задания 1 
 
